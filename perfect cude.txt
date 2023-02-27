@@ -1,0 +1,15 @@
+import java.util.*;
+class prog{
+    public static void main(string[] args){
+        Scanner obj=new Scanner (System.in);
+        int a=obj.nextInt();
+        int b;
+        for(i=0;i<=a;i++){
+            b=i*i*i;
+            if(b==a);
+            System.out.print("Yes");
+            else
+            System.out.print("No");
+        }
+    }
+}
